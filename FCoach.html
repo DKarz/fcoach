@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC>
+<html>
+ <head>
+ 	<meta http-equiv="Refresh" content="2.5" />
+  <title>PocketCoach</title>
+  <style>
+            .num {
+                position: absolute;
+                left: 380px;
+                top: 26px;
+                width: 430px;
+                height: 100px;
+                font-size: 530px
+
+            }
+        </style>
+ </head>
+ 
+ <body id="slider">
+  
+ 	<font color="#F5F5F5" face="Arial">
+<div class="num" id="yourId"></div>
+</font>
+<script>
+function getRandom(max){
+return Math.floor(Math.random() * max);
+}
+function changeColor(){
+	var x = getRandom(4)
+	if (x == 0)
+		return "red"
+	else if (x == 1)
+		return "blue"
+	else if (x == 2)
+		return "#15E000"
+	else if (x == 3)
+		return "orange"
+}
+document.getElementById('yourId').innerHTML = getRandom(10);
+document.getElementById('slider').style.backgroundColor = changeColor()
+
+</script>
+ 
+  </div>
+ </body>
+</html>
