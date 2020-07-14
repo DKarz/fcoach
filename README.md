@@ -7,6 +7,6 @@ A browser application “Fcoach” was made, which aim is developing speciﬁc s
 
 
 <p>
-  <img width="300" src="https://github.com/DKarz/media-lfs/blob/master/f4.gif?raw=true">
+  <img src="https://github.com/DKarz/media-lfs/blob/master/f4.gif?raw=true">
   <br/><br/><br/>
 </p>
