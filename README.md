@@ -5,7 +5,7 @@ A browser application “Fcoach” was made, which aim is developing speciﬁc s
 
 
 <p align="center">
-  <img src="https://github.com/DKarz/readme-media/blob/master/ff.gif?raw=true">
+  <img width=270 src="https://github.com/DKarz/readme-media/blob/master/ff.gif?raw=true">
 </p>
 
 
