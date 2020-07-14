@@ -1,7 +1,7 @@
 # fcoach
 The application is available at the link https://fcoach.herokuapp.com/FCoach.html
 
-A browser application “Fcoach” was made, which aim is developing speciﬁc skills of football players. This tool allows to optimize the training process in terms of improving the visual psychomotorics of the player, expanding the area of his peripheral vision and developing the ability to control the situation outside of direct eye contact. 
+A browser application “Fcoach” was made. Its aim is developing speciﬁc skills of football players. This tool allows to optimize the training process in terms of improving the visual psychomotorics of the player, expanding the area of his peripheral vision and developing the ability to control the situation outside of direct eye contact. 
 
 
 One of the differences that draw a line between a middling and good football player is awareness on the pitch. Even though the best way to develop this skill is regular game practice, by using auxiliary software awareness can be improved during individual training sessions as well. 
