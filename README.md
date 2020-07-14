@@ -8,9 +8,9 @@ A browser application “Fcoach” was made, which aim is developing speciﬁc s
 
 <p>
   <img width=270 src="https://github.com/DKarz/media-lfs/blob/master/f3.gif?raw=true">
-  <p> </p>
+  
   <img width=270 src="https://github.com/DKarz/media-lfs/blob/master/f4.gif?raw=true">
-  <p> </p>
+  
   <img width=270 src="https://github.com/DKarz/media-lfs/blob/master/f5.gif?raw=true">
   <br/><br/><br/>
 </p>
